@@ -23,7 +23,7 @@ Wylosuj liczę z zakresu 5-100 i wypisz ją w konsoli. Skorzystaj ze wzoru:
  Math.random() * (max - min) + min
 
 #### Zadanie 4 
-Mając do dyspozycji dwie zmienne var widthBox = "23px"; oraz var widthPanel = "2px"; dodaj je, a wynik wypisz w konsoli.
+Mając do dyspozycji dwie zmienne const widthBox = "23px"; oraz const widthPanel = "2px"; dodaj je, a wynik wypisz w konsoli.
 
 #### Zadanie 5 
 Zapisz do zmiennej mail, dowolny adres email. Następnie za pomocą odpowiedniej metody dla stringów sprawdź czy znajduje się w nim znak @.
